@@ -1,0 +1,1 @@
+This small library checks for the presence of the keys that indicate that a PDF is password protected.
