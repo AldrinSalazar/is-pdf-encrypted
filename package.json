@@ -4,5 +4,7 @@
   "description": "Check if a PDF is **password protected**",
   "main": "index.js",
   "author": "Aldrin Salazar <aldrin@doorr.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {"url": "https://github.com/AldrinSalazar/is-pdf-encrypted"},
+  "homepage": "https://github.com/AldrinSalazar/is-pdf-encrypted"
 }
