@@ -1,0 +1,8 @@
+{
+  "name": "is-pdf-encrypted",
+  "version": "1.0.0",
+  "description": "Check if a PDF is **password protected**",
+  "main": "index.js",
+  "author": "Aldrin Salazar <aldrin@doorr.com>",
+  "license": "MIT"
+}
